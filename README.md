@@ -6,6 +6,7 @@ T-rex_player is a simple Arduino-based autonomous google chrome T-rex mini game 
 
 1. Arduino Uno
 2. LDR
+3. Resistor 1K ohm
 3. Relay 5V
 4. Coin
 
