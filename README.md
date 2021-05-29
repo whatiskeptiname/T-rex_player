@@ -10,4 +10,4 @@ T-rex_player is a simple Arduino-based autonomous google chrome T-rex mini game 
 
 ## Watch The Video
 
-![Watch the video](https://youtu.be/kP7SRqgUraE)
+[![Watch the video](https://img.youtube.com/vi/kP7SRqgUraE.jpg)] (https://youtu.be/kP7SRqgUraE "T-rex Player")
