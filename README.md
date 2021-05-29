@@ -8,6 +8,10 @@ T-rex_player is a simple Arduino-based autonomous google chrome T-rex mini game 
 2. LDR
 3. Relay 5V
 
+## Tinkercad Schematic
+
+![](T-rex_player.png)
+
 ## Watch The Video
 
 <div align="center">
