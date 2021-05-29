@@ -21,6 +21,6 @@ The connections are made as shown in the above figure. Here The relay and coin p
 
 ## Watch The Video
 
-<div align="center">
+<div>
   <a href="https://youtu.be/kP7SRqgUraE"><img src="https://img.youtube.com/vi/kP7SRqgUraE/0.jpg"></a>
 </div>
