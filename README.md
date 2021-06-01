@@ -10,7 +10,7 @@ T-rex_player is a simple Arduino-based autonomous google chrome T-rex mini game 
 3. Relay 5V
 4. Coin
 
-<sub><sup>The components used in actual project may not match the components used in Tinkercad Simulation.</sup></sub>
+<sub>The components used in actual project may not match the components used in Tinkercad Simulation.</sub>
 
 ## Tinkercad Schematic
 
@@ -23,6 +23,6 @@ The connections are made as shown in the above figure. Here The relay and coin p
 
 ## Watch The Video
 
-<div>
+<div align="center">
   <a href="https://youtu.be/kP7SRqgUraE"><img src="https://img.youtube.com/vi/kP7SRqgUraE/0.jpg"></a>
 </div>
