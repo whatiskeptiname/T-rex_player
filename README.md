@@ -5,10 +5,10 @@ T-rex_player is a simple Arduino-based autonomous google chrome T-rex mini game 
 ## Components Used
 
 1. Arduino Uno
-2. LDR
-3. Resistor 1K ohm
-3. Relay 5V
-4. Coin
+1. LDR
+1. Resistor 1K ohm
+1. Relay 5V
+1. Coin
 
 <sub>The components used in actual project may not match the components used in Tinkercad Simulation.</sub>
 
